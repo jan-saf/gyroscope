@@ -1,0 +1,4 @@
+enum Sensor {
+  Gyroscope,
+  Accelerometer
+}
